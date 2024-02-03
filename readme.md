@@ -1,1 +1,0 @@
-https://github.com/PlatonBaskov93/ono-tebe-nado.git
