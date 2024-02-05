@@ -29,9 +29,9 @@ header styles
   }
 
   .header__link_active,
-  .footer__link_ative,
-  .header__link:last-child,
-  .footer__link:last-child {
+  .footer__link_active,
+  .header__link_no-underline,
+  .footer__link_no-underline {
     text-decoration: none;
   }
 
